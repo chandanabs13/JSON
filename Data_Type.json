@@ -1,0 +1,12 @@
+{
+    "name":"chandana",
+    "age":22,
+    "gender":"female",
+    "isProgrammer":true,
+    "skills":["javasvript","json"],
+    "address":{
+        "city":"bangalore",
+        "state":"karnataka",
+        "country":"india"
+    }
+}

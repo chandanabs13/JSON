@@ -1,0 +1,32 @@
+{"user":[
+    {"name":"chandana",
+    "age":22,
+    "gender":"female",
+    "isProgrammer":true,
+    "skills":["javasvript","json"],
+    "address":{
+        "city":"bangalore",
+        "state":"karnataka",
+        "country":"india"}
+    },
+    {"name":"gayana",
+    "age":22,
+    "gender":"female",
+    "isProgrammer":true,
+    "skills":["c","c++"],
+    "address":{
+        "city":"delhi",
+        "state":"karnataka",
+        "country":"india"}
+    },
+    {"name":"manasa",
+    "age":22,
+    "gender":"female",
+    "isProgrammer":true,
+    "skills":["python","java"],
+    "address":{
+        "city":"mumbai",
+        "state":"karnataka",
+        "country":"india"}
+    }
+]}
